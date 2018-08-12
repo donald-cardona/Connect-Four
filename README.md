@@ -17,3 +17,5 @@ There is also a message displayed for the outcome of the game.
 
 ### Connect Four Game Is Declared A Draw
 ![image](https://user-images.githubusercontent.com/40302096/44004172-f0b2eef0-9e2b-11e8-8cfa-a28446fba7fc.png)
+
+I hope you all have fun with this project!
