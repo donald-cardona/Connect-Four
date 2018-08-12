@@ -10,5 +10,6 @@ Players must insert chips and chips can only fall onto the bottom most spot of a
 There is also a message displayed for the outcome of the game.
 
 ### Red Wins Connect Four Game
-![image](https://user-images.githubusercontent.com/40302096/44004032-f7dacda8-9e29-11e8-9bbe-a2a5396827c1.png)
+![image](https://user-images.githubusercontent.com/40302096/44004055-4826d05e-9e2a-11e8-88b8-47edb6109794.png)
+
 
