@@ -11,7 +11,8 @@ import javafx.scene.layout.StackPane;
 import javafx.stage.Stage;
 
 /**
- *
+ * This Class is used to set up the Connect Four game by showing the board to
+ * the screen.
  * @author Donald Cardona
  */
 public class ConnectFourGame extends Application {
