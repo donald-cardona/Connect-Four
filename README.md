@@ -12,3 +12,5 @@ There is also a message displayed for the outcome of the game.
 ### Red Wins Connect Four Game
 ![image](https://user-images.githubusercontent.com/40302096/44004121-ecd2a650-9e2a-11e8-9e3b-7438334fd5ea.png)
 
+### Yellow Wins Connect Four Game
+![image](https://user-images.githubusercontent.com/40302096/44004133-3adc9306-9e2b-11e8-9f9a-5fc85d282438.png)
