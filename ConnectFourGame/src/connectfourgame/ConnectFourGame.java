@@ -26,7 +26,7 @@ public class ConnectFourGame extends Application {
         
         Scene scene = new Scene(root, 500, 500);
         
-        primaryStage.setTitle("Hello World!");
+        primaryStage.setTitle("Connect Four");
         primaryStage.setScene(scene);
         primaryStage.show();
     }
