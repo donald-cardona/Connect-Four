@@ -14,3 +14,5 @@ There is also a message displayed for the outcome of the game.
 
 ### Yellow Wins Connect Four Game
 ![image](https://user-images.githubusercontent.com/40302096/44004133-3adc9306-9e2b-11e8-9f9a-5fc85d282438.png)
+
+### Connect Four Game Is Declared A Draw
